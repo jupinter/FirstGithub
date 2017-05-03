@@ -1,2 +1,4 @@
  int test()
-{}
+{
+    printf("development");
+}
